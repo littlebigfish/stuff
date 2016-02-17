@@ -1,0 +1,46 @@
+/*global styles*/
+
+header {
+ height:200px;
+ background-color:#ff7900;
+ 
+}
+
+main {
+  width:90%;
+  margin:20px auto;
+}
+footer {
+  height:300px;
+  background-color:#ff7900;
+  text-align:center;
+  padding:40px;
+}
+footer p{
+ color:#ffffff;
+ text-align:center;
+ font-size:40px;
+}
+
+
+ /*button styles */
+ 
+.button {
+ background-color:#010090;
+ padding:10px 10px;
+ border-radius:6px;
+ color:white;
+ text-decoration:none;
+ 
+ }
+ .button:hover {
+  background-color:#FF0033;
+ }
+ /*other styles*/
+ .imageCenter {
+  display:block;
+  margin:0px auto;
+ }
+
+ 
+ 
